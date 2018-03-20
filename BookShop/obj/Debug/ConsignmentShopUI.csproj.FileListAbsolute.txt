@@ -1,0 +1,12 @@
+C:\Users\arek\Desktop\Git project\BookShop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\arek\Desktop\Git project\BookShop\BookShop\bin\Debug\BookShop.exe
+C:\Users\arek\Desktop\Git project\BookShop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\arek\Desktop\Git project\BookShop\BookShop\obj\Debug\ConsignmentShopUI.csprojResolveAssemblyReference.cache
+C:\Users\arek\Desktop\Git project\BookShop\BookShop\obj\Debug\BookShop.BookShop.resources
+C:\Users\arek\Desktop\Git project\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\arek\Desktop\Git project\BookShop\BookShop\obj\Debug\ConsignmentShopUI.csproj.GenerateResource.Cache
+C:\Users\arek\Desktop\Git project\BookShop\BookShop\obj\Debug\ConsignmentShopUI.csproj.CoreCompileInputs.cache
+C:\Users\arek\Desktop\Git project\BookShop\BookShop\obj\Debug\BookShop.exe
+C:\Users\arek\Desktop\Git project\BookShop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\arek\Desktop\Git project\BookShop\BookShop\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\arek\Desktop\Git project\BookShop\BookShop\bin\Debug\ConsignmentShopLibrary.pdb

@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace ConsignmentShopLibrary
 {
-    class Vendor
+    public class Vendor
     {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public double Comission { get; set; }
+        public Vendor()
+        {
+            Comission = .5;
+            
+        }
     }
 }
